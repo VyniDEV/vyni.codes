@@ -1,0 +1,53 @@
+body
+{
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif
+}
+.hx01
+{
+    text-align: center;
+    background-color: none;
+    height: 500px;
+    margin-top: 200px;
+}
+.hx01 h1
+{
+    color: rgb(0, 102, 255);
+}
+img
+{
+    width: 150px;
+}
+ul
+{
+    display: flex;
+    text-align: center;
+    text-decoration: none;
+    font-size: 50px;
+    list-style-type: none;
+    margin-left: 45%;
+    
+}
+a
+{
+    color: rgb(3, 127, 243);
+    text-decoration: none;
+}
+button
+{
+    background-size: 10px;
+    
+}
+
+.sujestão ul
+{
+   display: flex;
+   justify-content: space-between;
+   padding: 15px;
+   margin-left: 150px;
+   font-size: 20px; 
+}
+button
+{
+ padding: 16px;
+}

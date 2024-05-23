@@ -1,0 +1,37 @@
+body
+{
+    background-color: black;
+    color:white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul
+{
+    color: white;
+    align-items: center;
+    text-align: center;
+    list-style-type: none;
+}
+button
+{
+    padding: 18px;
+    background-color: rgb(255, 255, 255);
+}
+header
+{
+    margin:20px;
+}
+header img
+{
+    display: flex;
+    height: 500px;
+}
+.dec01
+{
+ margin: 20px;
+}
+.dec01 img
+{
+    display: flex;
+    height: 500px;
+
+}
